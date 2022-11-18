@@ -1,6 +1,6 @@
 <h1 align="center">Skails Map Viewer</h1>
 
-Skails\u00a9 Map Viewer is an All-In-One app that provides **full-screen easy-to-switch topo maps** from various providers, and key features to plan and drive any outdoor activities in the world (Hiking, Trail Running, Ski Touring, Alpinism,...) 
+Skails Map Viewer is an All-In-One app that provides **full-screen easy-to-switch topo maps** from various providers, and key features to plan and drive any outdoor activities in the world (Hiking, Trail Running, Ski Touring, Alpinism,...) 
 
 It can be installed from here [![Google Play](html/google-play-badge_small.png)](https://play.google.com/store/apps/details?id=com.skails.opentopomapviewer)
 
