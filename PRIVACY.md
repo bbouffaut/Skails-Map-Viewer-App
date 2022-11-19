@@ -23,7 +23,7 @@ If you click on a link to another website, you should read their privacy policy.
 * the different pages you visit using the app (=Browing path)
 * every other information you provide to us when you get in touch with us (email when you write to us, Github Id when you push an Issue)
 
-> **NB: WE DON'T COLLECT ANY PERSONAL INFORMATION. THE COLLECTED DATA ARE PURELY ANONYMOUS** Thus this is not possible for us to link the data with you.
+> **NB: WE DON'T COLLECT ANY PERSONAL INFORMATION. THE COLLECTED DATA ARE PURELY ANONYMOUS**. Thus this is not possible for us to link the data with you.
 
 2 - How do we collect your data?
 --------------------------------
@@ -51,13 +51,13 @@ The following information are sent **anonymously** then stored in [Mixpanel](htt
 * the type, version and characteristics of your mobile phone
 * the type and version of your exploitation system
 * the country where you connect from
-* the browing path
-* any location you want the map be centered on
+* your browing path
+* any location you enter in the app to have the map be centered on
 
 > **NB**: All those data are anonymous. Thus this is not possible for us to identify you in the Mixpanel system
 
 **All the other collected data are not sent out from the mobile application and are not stored anywhere in the Cloud:**
-\- your precise GPS location
+* your precise GPS location
 
 5 - What are your data protection rights
 ----------------------------------------
@@ -79,7 +79,7 @@ All data are purely anonimized. We don't have any mean to identify you based on 
 6 - Changes to our privacy policy
 ---------------------------------
 
-We keep our privacy policy under regular review and publish any updates on this web page. This privacy policy was last updated on November th, 2022.  
+We keep our privacy policy under regular review and publish any updates on this web page. This privacy policy was last updated on November 19th, 2022.  
 
 7 - How to contact us?
 ----------------------
