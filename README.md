@@ -117,3 +117,12 @@ When clicking the ![Follow-Me](html/ic_follow_me.png) button, the Follow-Me Serv
 <p align="center">
  <img src="html/screenshot-mainmap-itinary.png" alt="drawing" width="300"/>
  </p>
+
+# BERA display
+######For France only: Bulletin d'Estimations des Risques d'Avalanche
+
+- When pressing anywhere on the map, IF EXISTS, the BERA of the massif you touch displayed in full-screen
+
+<p align="center">
+ <img src="html/Screenshot_20221119-110938_Skails Map Viewer.jpg" alt="drawing" width="300"/>
+ </p>
