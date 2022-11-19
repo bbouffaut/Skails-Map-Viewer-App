@@ -119,7 +119,7 @@ When clicking the ![Follow-Me](html/ic_follow_me.png) button, the Follow-Me Serv
  </p>
 
 # BERA display
-######For France only: Bulletin d'Estimations des Risques d'Avalanche
+###### For France only: Bulletin d'Estimations des Risques d'Avalanche
 
 - When pressing anywhere on the map, IF EXISTS, the BERA of the massif you touch displayed in full-screen
 
