@@ -12,7 +12,7 @@ If you click on a link to another website, you should read their privacy policy.
 1 - What data do we collect?
 ----------------------------
 
-**We collect the following data that you voluntarily provide to us in a fully anonymized way:**  
+**We collect the following data in a fully anonymized way:**  
   
 * the type, version and characteristics of your browser
 * the type, version and characteristics of your mobile phone
