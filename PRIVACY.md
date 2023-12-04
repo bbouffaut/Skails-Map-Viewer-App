@@ -19,6 +19,7 @@ If you click on a link to another website, you should read their privacy policy.
 * the type and version of your exploitation system
 * the country where you connect from
 * the different pages you visit using the app (=Browing path)
+* A Device Id used by MixPanel for Analytics purpose
 * every other information you provide to us when you get in touch with us (email when you write to us, Github Id when you push an Issue)
 
 > **NB: WE DON'T COLLECT ANY PERSONAL INFORMATION. THE COLLECTED DATA ARE PURELY ANONYMOUS**. Thus this is not possible for us to link the data with you.
@@ -37,7 +38,8 @@ If you click on a link to another website, you should read their privacy policy.
 
 **We collect your data for purposes including:**  
   
-* Browing path is collected to understand the usage that is done with the app and improve our services to provide a better experience for our users  
+* Browing path is collected to understand the usage that is done with the app and improve our services to provide a better experience for our users
+* * Device Id is collected to permit to correlate browsing activities for analytics purpose
 * Other informations are collected for pure statistical purpose
 
 4 - How do we store your data / Our subprocessors?
@@ -48,6 +50,7 @@ The following information are sent **anonymously** then stored in [Mixpanel](htt
 * the type and version of your exploitation system
 * the country where you connect from
 * your browing path
+* a Device Id to correlate the app browsing activity
 
 > **NB**: All those data are anonymous. Thus this is not possible for us to identify you in the Mixpanel system
 
