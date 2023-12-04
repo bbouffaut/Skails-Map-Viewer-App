@@ -2,7 +2,7 @@ Privacy Policy
 ==============
 
   
-_Last update: 2022-11-19_  
+_Last update: 2023-12-04_  
   
 
 The privacy of your data is very important to us. This privacy policy explains how our organization uses the personal data we collect from you when you use our Mobile App [Skails Map Viewer android app](https://play.google.com/store/apps/details?id=com.skails.opentopomapviewer")..  
