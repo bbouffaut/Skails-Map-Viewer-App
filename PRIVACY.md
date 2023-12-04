@@ -18,8 +18,6 @@ If you click on a link to another website, you should read their privacy policy.
 * the type, version and characteristics of your mobile phone
 * the type and version of your exploitation system
 * the country where you connect from
-* your precise GPS location
-* any location you want the map be centered on
 * the different pages you visit using the app (=Browing path)
 * every other information you provide to us when you get in touch with us (email when you write to us, Github Id when you push an Issue)
 
@@ -31,7 +29,6 @@ If you click on a link to another website, you should read their privacy policy.
 **We collect data that you directly provide to us when you:**  
   
 * Use our mobile app  
-* Voluntarily search a location to center the map on
 * Voluntarily send us an email  
 
 
@@ -40,7 +37,6 @@ If you click on a link to another website, you should read their privacy policy.
 
 **We collect your data for purposes including:**  
   
-* Location and Search places are collected in order to deliver the service the application is expected to deliver
 * Browing path is collected to understand the usage that is done with the app and improve our services to provide a better experience for our users  
 * Other informations are collected for pure statistical purpose
 
@@ -52,12 +48,8 @@ The following information are sent **anonymously** then stored in [Mixpanel](htt
 * the type and version of your exploitation system
 * the country where you connect from
 * your browing path
-* any location you enter in the app to have the map be centered on
 
 > **NB**: All those data are anonymous. Thus this is not possible for us to identify you in the Mixpanel system
-
-**All the other collected data are not sent out from the mobile application and are not stored anywhere in the Cloud:**
-* your precise GPS location
 
 5 - What are your data protection rights
 ----------------------------------------
